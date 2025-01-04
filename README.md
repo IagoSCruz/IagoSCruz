@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Olá, eu sou **Iago Cruz**!
 
-<!--
-**IagoSCruz/IagoSCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 Apaixonado por dados e atualmente em transição para a área de Engenharia de Dados.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 O que estou construindo:
+
+  Pipelines de dados usando Python e SQL.
+  Dashboards interativos com Power BI.
+  Projetos de ETL para resolver problemas do mundo real.
+<br>
+
+- 🌟 Habilidades:
+
+  Linguagens: Python, SQL, Shell Script.
+  Ferramentas: Power BI, Docker, New Relic, Kibana.
+  ETL: Experiência prática na criação de pipelines locais.
+<br>
+
+- 📂 Projetos recentes:
+
+  Football Manager Data Pipeline
+    Transformei dados de partidas em insights visuais, utilizando um pipeline ETL (extração em RTF, conversão para CSV, análise em Power BI).
+<br>
+
+- 🚀 Em aprendizado:
+
+  Spark e Hadoop para big data.
+  Modelagem de dados e data lakes.
+
+<br>
+<br>
+
+📬 Vamos nos conectar!
+
+LinkedIn: Iago Cruz
+<br>
+Email: iagosilvacontato@gmail.com
+
+
