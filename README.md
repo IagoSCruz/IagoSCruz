@@ -1,12 +1,14 @@
 ## 👋 Olá, eu sou **Iago Cruz**!
 
 
-🎯 Apaixonado por dados e atualmente em transição para a área de Engenharia de Dados.
+🎯 Apaixonado por dados e SRE, atualmente trabalhando como Enterprise Support Analyst PL na Intelipost.
 <br>
 
 - 🔍 O que estou construindo:
 
-  Pipelines de dados usando Python e SQL.
+  Scripts para automação de tarefas com Python e Shell Script.
+  Provisionamento de VMs com Vagrant.
+  Dashboards de acompanhamento de métricas de monitoria de ambientes com New Relic.
   Dashboards interativos com Power BI.
   Projetos de ETL para resolver problemas do mundo real.
 <br>
@@ -14,8 +16,7 @@
 - 🌟 Habilidades:
 
   Linguagens: Python, SQL, Shell Script.
-  Ferramentas: Power BI, Docker, New Relic, Kibana.
-  ETL: Experiência prática na criação de pipelines locais.
+  Ferramentas: Power BI, Docker, GCP, AWS, New Relic, Elascit Kibana, Vagrant
 <br>
 
 - 📂 Projetos recentes:
@@ -26,8 +27,9 @@
 
 - 🚀 Em aprendizado:
 
-  Spark e Hadoop para big data.
-  Modelagem de dados e data lakes.
+ Terraform
+ Kubernetes
+ Fundamentos de Engenharia de Dados
 
 <br>
 <br>
