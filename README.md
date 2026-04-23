@@ -1,50 +1,45 @@
-Olá, eu sou o Iago! 👋<br>
-Sou um profissional de tecnologia apaixonado por resolver problemas complexos com Python, automatizar processos com práticas DevOps e construir soluções inovadoras com IA.
+# Iago Cruz
 
-Sobre Mim<br>
-🚀 Atualmente, como Application Management Support na Intelipost, meu foco é desenvolver automações e soluções que otimizam processos críticos. Transformo desafios operacionais em sistemas eficientes utilizando Python, Docker e serviços AWS, criando desde bots de alerta até aplicações com LLMs (RAG).
+**Backend Engineer** @ [LuizaLabs](https://www.linkedin.com/company/luizalabs/) — building the Open API layer of Magazine Luiza's logistics platform.
 
-💡 Minha trajetória, que começou no suporte técnico, me deu uma visão única sobre a importância de criar sistemas robustos, escaláveis e resilientes. Essa experiência foi o motor que me impulsionou a mergulhar no desenvolvimento backend e nas práticas DevOps, buscando sempre a melhoria contínua e a entrega de valor.
-
-🎯 Estou em busca de desafios onde eu possa aplicar e expandir minha paixão por automação e desenvolvimento para construir e escalar soluções de alto impacto.
-
-🚀 Tecnologias e Ferramentas<br>
-Linguagens & Frameworks<br>
-
-DevOps & Cloud
-
-IA & LLM
-
-Bancos de Dados
-
-Python (Pandas, Requests, Flask)
-
-Docker
-
-Langchain & RAG
-
-PostgreSQL & MySQL
-
-SQL
-
-AWS (EC2, S3, Lightsail)
-
-OpenAI & Gemini APIs
-
-MongoDB
-
-ShellScript
-
-CI/CD (GitHub Actions)
-
-Vector DBs (ChromaDB)
-
-Git & GitHub
+I design and maintain APIs that expose internal fulfillment, shipping and last-mile services to external partners and e-commerce clients. Day-to-day: Python (FastAPI), TypeScript (NestJS), event-driven microservices with RabbitMQ, Redis, Kong, and deploys via ArgoCD/Helm on GCP and AWS.
 
 ---
 
-🌱 Atualmente, estou focado em...<br>
-Aprofundar meus conhecimentos em aplicações LLM/RAG, construindo pipelines de dados eficientes para alimentar e otimizar modelos de IA.
-Desenvolvendo habilidades no Framework Django, para soluções backend.
+### What I work with
 
-Expandindo minhas habilidades em DevOps, com foco em Infraestrutura como Código (Terraform) e orquestração de containers com Kubernetes (EKS/GKE).
+```
+Primary    →  Python · FastAPI · Pydantic · SQLAlchemy (async) · pytest
+Secondary  →  TypeScript · NestJS · TurboRepo
+Infra      →  Docker · Kubernetes · ArgoCD · Helm · GitLab CI · GitHub Actions
+Data       →  PostgreSQL · Redis · RabbitMQ
+Cloud      →  GCP · AWS · MGC
+AI/LLM     →  RAG pipelines · LLM agents · OpenAI API · LangChain
+```
+
+### What I care about
+
+- **Clean architecture in practice** — hexagonal, CQRS and event-driven patterns where they actually pay off.
+- **Domain expertise** — 4+ years in logistics, supply chain and fulfillment. I speak the language of SLAs, carriers, EDI and last-mile delivery.
+- **Shipping quality by default** — pre-commit hooks, typed code, meaningful tests and CI/CD pipelines that don't surprise anyone on Friday.
+
+---
+
+### Featured projects
+
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| **[colheita](https://github.com/IagoSCruz/colheita)** | FastAPI async · SQLAlchemy · PostgreSQL · Alembic · Next.js · TurboRepo | CSA subscription platform — production-grade architecture with testcontainers, structlog, ADRs and contract-first API design |
+| **[fast-cars-api](https://github.com/IagoSCruz/fast-cars-api)** | FastAPI · SQLAlchemy · Alembic · pytest | REST API applying clean architecture, migrations and automated testing |
+
+---
+
+### Currently
+
+- Developing the new Magalog API standard — a TypeScript/NestJS monorepo that will be the unified barramento for Magazine Luiza's logistics ecosystem.
+- Contributing to LuizaLabs' internal AI initiative — building a RAG-powered support chatbot and a shared library of reusable agents and skills.
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iago--cruz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-cruz/)
+[![Email](https://img.shields.io/badge/Email-iagosilvacontato%40gmail.com-red?logo=gmail&logoColor=white)](mailto:iagosilvacontato@gmail.com)
