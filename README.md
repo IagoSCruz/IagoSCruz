@@ -29,8 +29,8 @@ AI/LLM     →  RAG pipelines · LLM agents · OpenAI API · LangChain
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| **[colheita](https://github.com/IagoSCruz/colheita)** | FastAPI async · SQLAlchemy · PostgreSQL · Alembic · Next.js · TurboRepo | CSA subscription platform — production-grade architecture with testcontainers, structlog, ADRs and contract-first API design |
-| **[fast-cars-api](https://github.com/IagoSCruz/fast-cars-api)** | FastAPI · SQLAlchemy · Alembic · pytest | REST API applying clean architecture, migrations and automated testing |
+| **[colheita](https://github.com/IagoSCruz/AAPel-cooperativa-alimentos)** | FastAPI async · SQLAlchemy · PostgreSQL · Alembic · Next.js · TurboRepo | CSA subscription platform — production-grade architecture with testcontainers, structlog, ADRs and contract-first API design |
+
 
 ---
 
